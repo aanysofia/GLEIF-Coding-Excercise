@@ -5,7 +5,7 @@
 
 ## Setup
 
-For this purpose you use following commands:
+For this purpose, use following commands:
 
 ```bash
 python -m venv .venv
